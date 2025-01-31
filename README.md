@@ -8,7 +8,7 @@
 |:---:|:---:|
 | [곽성대](https://github.com/tjdeo1102) |   PM, 게임 시스템 매니저 구현, UI 구현   |
 | [윤수현](https://github.com/KimSu-70) |  블럭 물리 구현, 사운드 및 기타 개발 지원  |
-| [임준](https://github.com/pang826) |  플레이어 구현, 블럭 스폰 관련 기능 구현 |
+| [임준형](https://github.com/pang826) |  플레이어 구현, 블럭 스폰 관련 기능 구현 |
 | [황규호](https://github.com/leesiyeon99) | 로비 시스템 구현, DB 관리 , QA |
 ---
 
